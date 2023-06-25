@@ -1,5 +1,7 @@
 # shoes_web
-This is shoes website
+This is shoes website.
+
+Here are some screenshot of this sites.Hope you like.
 
 Landing page.....
 
