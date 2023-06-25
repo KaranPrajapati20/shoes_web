@@ -3,6 +3,7 @@ This is shoes website.
 
 Here are some screenshot of this sites.Hope you like.
 
+
 Landing page.....
 
 ![image1](https://github.com/KaranPrajapati20/shoes_web/assets/123754898/85083bf3-3d6d-4cad-bbf5-0a91636b62eb)
